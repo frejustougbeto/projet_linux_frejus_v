@@ -51,7 +51,7 @@
 
 10. Suppression de Consignes.md ( cd MoSEF-projet-2018 et rm Consignes.md) et ajout du readme.md sur Github.
 
-############################################MERCI BEAUCOUP AMADOU##########################################################
+#############################MERCI BEAUCOUP AMADOU#############################
 
 
 
